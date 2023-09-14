@@ -1,8 +1,3 @@
-Projeto de automação bankeiro
-Projeto criado utilizando Robot, Selenium e Appium.
-
-
-
 ---- Pré-Requisitos Testes Web (Correios) ----
 Download da Linguagem Python (https://www.python.org/downloads/) release 3.8...
 Marcar opção de instalar o PIP durante instalação do Python
